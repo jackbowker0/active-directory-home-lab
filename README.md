@@ -29,4 +29,9 @@ A virtualized Active Directory environment built from scratch using VirtualBox o
 - Virtual networking
 
 ## Screenshots
-Coming soon
+![Server Manager](01-server-manager-roles.png)
+![ADUC OU Structure](02-aduc-ou-structure.png)
+![Employees Users](03-employees-users.png)
+![Admin Domain Admins](04-apedro-domain-admin.png)
+![Computers CLIENT01](05-computers-client01.png)
+![Domain Login](06-client01-domain-login.png)
